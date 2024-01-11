@@ -1,0 +1,461 @@
+{"level":"info","message":"Exporting content from branch stage"}
+{"level":"info","message":"Started to export content, version is 2"}
+{"level":"info","message":"Starting export of stack module"}
+{"level":"info","message":"Starting export of assets module"}
+{"level":"info","message":"Batch No. 1 of assets is complete."}
+{"level":"info","message":"Assets metadata exported successfully.!"}
+{"level":"info","message":"Batch No. 1 of assets folders is complete."}
+{"level":"info","message":"Assets folder Exported successfully.!"}
+{"level":"info","message":"Downloaded Twitter.svg: blt5ae17136c388ead9 successfully!"}
+{"level":"info","message":"Downloaded visa-icon.jpg: blt0e72d822f31965c4 successfully!"}
+{"level":"info","message":"Downloaded main-logo.png: blt0f4ac2ae1728d8c8 successfully!"}
+{"level":"info","message":"Downloaded banner1.jpg: blt598cce6d47daf9fc successfully!"}
+{"level":"info","message":"Downloaded banner2.jpg: blt004092b39a1b4811 successfully!"}
+{"level":"info","message":"Batch No. 1 of assets download is complete."}
+{"level":"info","message":"Downloaded Instagram.svg: blt5737bc8736fea9e3 successfully!"}
+{"level":"info","message":"Downloaded facebook.svg: bltba60f103d374e08c successfully!"}
+{"level":"info","message":"Downloaded product-item3.jpg: blt9bf51f4d4ee2992a successfully!"}
+{"level":"info","message":"Downloaded product-item2.jpg: bltca48082ca56d562e successfully!"}
+{"level":"info","message":"Downloaded product-item1.jpg: blt1f5b310c81d16af7 successfully!"}
+{"level":"info","message":"Batch No. 2 of assets download is complete."}
+{"level":"info","message":"Downloaded product-item4.jpg: blt8c70e780cb833584 successfully!"}
+{"level":"info","message":"Downloaded collection-item3.jpg: bltd223afc7261a8f47 successfully!"}
+{"level":"info","message":"Downloaded collection-item.jpg: bltdae7e6a5dfefe9e6 successfully!"}
+{"level":"info","message":"Downloaded collection-item2.jpg: bltdb12dbcfdfd34797 successfully!"}
+{"level":"info","message":"Downloaded collection-item1.jpg: bltf3b8929232601dff successfully!"}
+{"level":"info","message":"Batch No. 3 of assets download is complete."}
+{"level":"info","message":"Downloaded brand2.png: blt0e342bc79347be93 successfully!"}
+{"level":"info","message":"Downloaded brand3.png: blt8ac7708bb55a8f95 successfully!"}
+{"level":"info","message":"Downloaded brand4.png: blt8c47e1d542f22417 successfully!"}
+{"level":"info","message":"Downloaded brand1.png: blt0f1ea27ea1c56551 successfully!"}
+{"level":"info","message":"Downloaded model.jpg: blta2c08400a0ef0aa0 successfully!"}
+{"level":"info","message":"Batch No. 4 of assets download is complete."}
+{"level":"info","message":"Downloaded heart.png: blt0a6eaf5c512cdc3b successfully!"}
+{"level":"info","message":"Downloaded user.png: blt0303162205e7e802 successfully!"}
+{"level":"info","message":"Downloaded search.png: bltc5f5a5b7e9a72721 successfully!"}
+{"level":"info","message":"Downloaded cart.png: bltee5f1267cb066fbf successfully!"}
+{"level":"info","message":"Downloaded brand5.png: blt858c1658b7b1134a successfully!"}
+{"level":"info","message":"Batch No. 5 of assets download is complete."}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(5).png: blte784ceb17274cfb6 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(4).png: blt483fabff107ccf2c successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(3).png: blt99c6d5712f2c7f50 successfully!"}
+{"level":"info","message":"Downloaded post-img1.jpg: bltf0704c03d49b1bc2 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(2).png: blt7f1b4ad3de83e2d6 successfully!"}
+{"level":"info","message":"Batch No. 6 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img3.jpg: bltcbb5105b73287a46 successfully!"}
+{"level":"info","message":"Downloaded post-img9.jpg: bltd4f6458cd8df77f8 successfully!"}
+{"level":"info","message":"Downloaded post-img5.jpg: blt12cb9c015dfcf234 successfully!"}
+{"level":"info","message":"Downloaded post-img2.jpg: bltd334868f6d5adfe5 successfully!"}
+{"level":"info","message":"Downloaded post-img6.jpg: bltf7e5943493897db7 successfully!"}
+{"level":"info","message":"Batch No. 7 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img7.jpg: blt865ba9db431df8d9 successfully!"}
+{"level":"info","message":"Downloaded single-image2.jpg: bltedf36d54a7aca7d3 successfully!"}
+{"level":"info","message":"Downloaded single-image1.jpg: bltc889b77ab12912e1 successfully!"}
+{"level":"info","message":"Downloaded post-img8.jpg: blt1492daf6470948ad successfully!"}
+{"level":"info","message":"Downloaded post-img4.jpg: blt3b149bc372184e8d successfully!"}
+{"level":"info","message":"Batch No. 8 of assets download is complete."}
+{"level":"info","message":"Downloaded Shirt.webp: bltc780f159b54b9fe6 successfully!"}
+{"level":"info","message":"Downloaded quote.png: blt1f31a862849c0068 successfully!"}
+{"level":"info","message":"Downloaded Crop_Length_Hood.webp: blt526a93ced5227de0 successfully!"}
+{"level":"info","message":"Downloaded technosport.png: bltfbeb1e4531b36250 successfully!"}
+{"level":"info","message":"Downloaded hero-image.jpg: blt6a5631d0e8d1dd6f successfully!"}
+{"level":"info","message":"Batch No. 9 of assets download is complete."}
+{"level":"info","message":"Downloaded Peach_top.webp: blt2be21bb4bf1dbaea successfully!"}
+{"level":"info","message":"Downloaded oevdh_512.webp: blt6f877817a43c247a successfully!"}
+{"level":"info","message":"Downloaded tops_and_tunic.webp: blte0907a7475bccb6c successfully!"}
+{"level":"info","message":"Downloaded Dyed-Fabrics-for-Festivities-770x515.jpg: blt571f368f1da838d6 successfully!"}
+{"level":"info","message":"Downloaded muzdo_512.webp: blt65b60e66bce37b45 successfully!"}
+{"level":"info","message":"Batch No. 10 of assets download is complete."}
+{"level":"info","message":"Downloaded Cute-Clothes-for-Fall-for-Women1.jpg: bltefcea95948c13e2c successfully!"}
+{"level":"info","message":"Downloaded embroidery.jpg: blt1070c1abf5d5ef35 successfully!"}
+{"level":"info","message":"Downloaded Handloom.jpg: blt1989e68686ad8943 successfully!"}
+{"level":"info","message":"Downloaded 2jamdani.jpg: blta70d3df3cae9a54d successfully!"}
+{"level":"info","message":"Downloaded Tote_bags.png: blt4d35abedacff8051 successfully!"}
+{"level":"info","message":"Batch No. 11 of assets download is complete."}
+{"level":"info","message":"Downloaded handbag.webp: blt32654f3add324af2 successfully!"}
+{"level":"info","message":"Downloaded sneakers.webp: blt9d691f0f74ffd710 successfully!"}
+{"level":"info","message":"Batch No. 12 of assets download is complete."}
+{"level":"info","message":"Assets download completed successfully.!"}
+{"level":"info","message":"Assets exported successfully.!"}
+{"level":"info","message":"Starting export of locales module"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting export of environments module"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"'commerce' environment was exported successfully"}
+{"level":"info","message":"'corporate' environment was exported successfully"}
+{"level":"info","message":"'development' environment was exported successfully"}
+{"level":"info","message":"All the environments have been exported successfully!"}
+{"level":"info","message":"Starting export of extensions module"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"No extensions found"}
+{"level":"info","message":"Starting export of webhooks module"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting export of global-fields module"}
+{"level":"info","message":"Starting global fields export"}
+{"level":"info","message":"Completed global fields export"}
+{"level":"info","message":"Starting export of content-types module"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting export of custom-roles module"}
+{"level":"info","message":"Starting custom roles export"}
+{"level":"info","message":"'Article Author' role was exported successfully"}
+{"level":"info","message":"'Commerce Content Editor' role was exported successfully"}
+{"level":"info","message":"Starting export of workflows module"}
+{"level":"info","message":"Starting workflows export"}
+{"level":"info","message":"'Workflow POC' workflow was exported successfully"}
+{"level":"info","message":"All the workflows have been exported successfully!"}
+{"level":"info","message":"Starting export of entries module"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-us'"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting export of labels module"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"'Commerce Site' label was exported successfully"}
+{"level":"info","message":"'Pages' label was exported successfully"}
+{"level":"info","message":"'Components' label was exported successfully"}
+{"level":"info","message":"All the labels have been exported successfully!"}
+{"level":"info","message":"Starting export of marketplace-apps module"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Algolia app and it's config."}
+{"level":"info","message":"Exported Algolia app and it's config."}
+{"level":"info","message":"Exporting Form.io app and it's config."}
+{"level":"info","message":"Exported Form.io app and it's config."}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of branch stage has been exported successfully!"}
+{"level":"info","message":"Exporting content from branch dev"}
+{"level":"info","message":"Started to export content, version is 2"}
+{"level":"info","message":"Starting export of stack module"}
+{"level":"info","message":"Starting export of assets module"}
+{"level":"info","message":"Batch No. 1 of assets folders is complete."}
+{"level":"info","message":"Assets folder Exported successfully.!"}
+{"level":"info","message":"Batch No. 1 of assets is complete."}
+{"level":"info","message":"Assets metadata exported successfully.!"}
+{"level":"info","message":"Downloaded main-logo.png: blt0f4ac2ae1728d8c8 successfully!"}
+{"level":"info","message":"Downloaded visa-icon.jpg: blt0e72d822f31965c4 successfully!"}
+{"level":"info","message":"Downloaded Twitter.svg: blt5ae17136c388ead9 successfully!"}
+{"level":"info","message":"Downloaded banner2.jpg: blt004092b39a1b4811 successfully!"}
+{"level":"info","message":"Downloaded banner1.jpg: blt598cce6d47daf9fc successfully!"}
+{"level":"info","message":"Batch No. 1 of assets download is complete."}
+{"level":"info","message":"Downloaded product-item3.jpg: blt9bf51f4d4ee2992a successfully!"}
+{"level":"info","message":"Downloaded product-item1.jpg: blt1f5b310c81d16af7 successfully!"}
+{"level":"info","message":"Downloaded facebook.svg: bltba60f103d374e08c successfully!"}
+{"level":"info","message":"Downloaded Instagram.svg: blt5737bc8736fea9e3 successfully!"}
+{"level":"info","message":"Downloaded product-item2.jpg: bltca48082ca56d562e successfully!"}
+{"level":"info","message":"Batch No. 2 of assets download is complete."}
+{"level":"info","message":"Downloaded collection-item.jpg: bltdae7e6a5dfefe9e6 successfully!"}
+{"level":"info","message":"Downloaded product-item4.jpg: blt8c70e780cb833584 successfully!"}
+{"level":"info","message":"Downloaded collection-item2.jpg: bltdb12dbcfdfd34797 successfully!"}
+{"level":"info","message":"Downloaded collection-item3.jpg: bltd223afc7261a8f47 successfully!"}
+{"level":"info","message":"Downloaded collection-item1.jpg: bltf3b8929232601dff successfully!"}
+{"level":"info","message":"Batch No. 3 of assets download is complete."}
+{"level":"info","message":"Downloaded model.jpg: blta2c08400a0ef0aa0 successfully!"}
+{"level":"info","message":"Downloaded brand2.png: blt0e342bc79347be93 successfully!"}
+{"level":"info","message":"Downloaded brand1.png: blt0f1ea27ea1c56551 successfully!"}
+{"level":"info","message":"Downloaded brand3.png: blt8ac7708bb55a8f95 successfully!"}
+{"level":"info","message":"Downloaded brand4.png: blt8c47e1d542f22417 successfully!"}
+{"level":"info","message":"Batch No. 4 of assets download is complete."}
+{"level":"info","message":"Downloaded search.png: bltc5f5a5b7e9a72721 successfully!"}
+{"level":"info","message":"Downloaded cart.png: bltee5f1267cb066fbf successfully!"}
+{"level":"info","message":"Downloaded brand5.png: blt858c1658b7b1134a successfully!"}
+{"level":"info","message":"Downloaded heart.png: blt0a6eaf5c512cdc3b successfully!"}
+{"level":"info","message":"Downloaded user.png: blt0303162205e7e802 successfully!"}
+{"level":"info","message":"Batch No. 5 of assets download is complete."}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(2).png: blt7f1b4ad3de83e2d6 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(5).png: blte784ceb17274cfb6 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(4).png: blt483fabff107ccf2c successfully!"}
+{"level":"info","message":"Downloaded post-img1.jpg: bltf0704c03d49b1bc2 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(3).png: blt99c6d5712f2c7f50 successfully!"}
+{"level":"info","message":"Batch No. 6 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img5.jpg: blt12cb9c015dfcf234 successfully!"}
+{"level":"info","message":"Downloaded post-img9.jpg: bltd4f6458cd8df77f8 successfully!"}
+{"level":"info","message":"Downloaded post-img6.jpg: bltf7e5943493897db7 successfully!"}
+{"level":"info","message":"Downloaded post-img2.jpg: bltd334868f6d5adfe5 successfully!"}
+{"level":"info","message":"Downloaded post-img3.jpg: bltcbb5105b73287a46 successfully!"}
+{"level":"info","message":"Batch No. 7 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img8.jpg: blt1492daf6470948ad successfully!"}
+{"level":"info","message":"Downloaded post-img7.jpg: blt865ba9db431df8d9 successfully!"}
+{"level":"info","message":"Downloaded single-image1.jpg: bltc889b77ab12912e1 successfully!"}
+{"level":"info","message":"Downloaded single-image2.jpg: bltedf36d54a7aca7d3 successfully!"}
+{"level":"info","message":"Downloaded post-img4.jpg: blt3b149bc372184e8d successfully!"}
+{"level":"info","message":"Batch No. 8 of assets download is complete."}
+{"level":"info","message":"Downloaded Shirt.webp: bltc780f159b54b9fe6 successfully!"}
+{"level":"info","message":"Downloaded quote.png: blt1f31a862849c0068 successfully!"}
+{"level":"info","message":"Downloaded hero-image.jpg: blt6a5631d0e8d1dd6f successfully!"}
+{"level":"info","message":"Downloaded Crop_Length_Hood.webp: blt526a93ced5227de0 successfully!"}
+{"level":"info","message":"Downloaded technosport.png: bltfbeb1e4531b36250 successfully!"}
+{"level":"info","message":"Batch No. 9 of assets download is complete."}
+{"level":"info","message":"Downloaded oevdh_512.webp: blt6f877817a43c247a successfully!"}
+{"level":"info","message":"Downloaded muzdo_512.webp: blt65b60e66bce37b45 successfully!"}
+{"level":"info","message":"Downloaded tops_and_tunic.webp: blte0907a7475bccb6c successfully!"}
+{"level":"info","message":"Downloaded Dyed-Fabrics-for-Festivities-770x515.jpg: blt571f368f1da838d6 successfully!"}
+{"level":"info","message":"Downloaded Peach_top.webp: blt2be21bb4bf1dbaea successfully!"}
+{"level":"info","message":"Batch No. 10 of assets download is complete."}
+{"level":"info","message":"Downloaded embroidery.jpg: blt1070c1abf5d5ef35 successfully!"}
+{"level":"info","message":"Downloaded 2jamdani.jpg: blta70d3df3cae9a54d successfully!"}
+{"level":"info","message":"Downloaded Tote_bags.png: blt4d35abedacff8051 successfully!"}
+{"level":"info","message":"Downloaded Cute-Clothes-for-Fall-for-Women1.jpg: bltefcea95948c13e2c successfully!"}
+{"level":"info","message":"Downloaded Handloom.jpg: blt1989e68686ad8943 successfully!"}
+{"level":"info","message":"Batch No. 11 of assets download is complete."}
+{"level":"info","message":"Downloaded sneakers.webp: blt9d691f0f74ffd710 successfully!"}
+{"level":"info","message":"Downloaded handbag.webp: blt32654f3add324af2 successfully!"}
+{"level":"info","message":"Batch No. 12 of assets download is complete."}
+{"level":"info","message":"Assets download completed successfully.!"}
+{"level":"info","message":"Assets exported successfully.!"}
+{"level":"info","message":"Starting export of locales module"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting export of environments module"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"'commerce' environment was exported successfully"}
+{"level":"info","message":"'corporate' environment was exported successfully"}
+{"level":"info","message":"'development' environment was exported successfully"}
+{"level":"info","message":"All the environments have been exported successfully!"}
+{"level":"info","message":"Starting export of extensions module"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"No extensions found"}
+{"level":"info","message":"Starting export of webhooks module"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting export of global-fields module"}
+{"level":"info","message":"Starting global fields export"}
+{"level":"info","message":"Completed global fields export"}
+{"level":"info","message":"Starting export of content-types module"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting export of custom-roles module"}
+{"level":"info","message":"Starting custom roles export"}
+{"level":"info","message":"'Article Author' role was exported successfully"}
+{"level":"info","message":"'Commerce Content Editor' role was exported successfully"}
+{"level":"info","message":"Starting export of workflows module"}
+{"level":"info","message":"Starting workflows export"}
+{"level":"info","message":"'Workflow POC' workflow was exported successfully"}
+{"level":"info","message":"All the workflows have been exported successfully!"}
+{"level":"info","message":"Starting export of entries module"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-us'"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting export of labels module"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"'Commerce Site' label was exported successfully"}
+{"level":"info","message":"'Pages' label was exported successfully"}
+{"level":"info","message":"'Components' label was exported successfully"}
+{"level":"info","message":"All the labels have been exported successfully!"}
+{"level":"info","message":"Starting export of marketplace-apps module"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Algolia app and it's config."}
+{"level":"info","message":"Exported Algolia app and it's config."}
+{"level":"info","message":"Exporting Form.io app and it's config."}
+{"level":"info","message":"Exported Form.io app and it's config."}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of branch dev has been exported successfully!"}
+{"level":"info","message":"Exporting content from branch main"}
+{"level":"info","message":"Started to export content, version is 2"}
+{"level":"info","message":"Starting export of stack module"}
+{"level":"info","message":"Starting export of assets module"}
+{"level":"info","message":"Batch No. 1 of assets is complete."}
+{"level":"info","message":"Assets metadata exported successfully.!"}
+{"level":"info","message":"Batch No. 1 of assets folders is complete."}
+{"level":"info","message":"Assets folder Exported successfully.!"}
+{"level":"info","message":"Downloaded Twitter.svg: blt5ae17136c388ead9 successfully!"}
+{"level":"info","message":"Downloaded visa-icon.jpg: blt0e72d822f31965c4 successfully!"}
+{"level":"info","message":"Downloaded main-logo.png: blt0f4ac2ae1728d8c8 successfully!"}
+{"level":"info","message":"Downloaded banner2.jpg: blt004092b39a1b4811 successfully!"}
+{"level":"info","message":"Downloaded banner1.jpg: blt598cce6d47daf9fc successfully!"}
+{"level":"info","message":"Batch No. 1 of assets download is complete."}
+{"level":"info","message":"Downloaded Instagram.svg: blt5737bc8736fea9e3 successfully!"}
+{"level":"info","message":"Downloaded facebook.svg: bltba60f103d374e08c successfully!"}
+{"level":"info","message":"Downloaded product-item2.jpg: bltca48082ca56d562e successfully!"}
+{"level":"info","message":"Downloaded product-item1.jpg: blt1f5b310c81d16af7 successfully!"}
+{"level":"info","message":"Downloaded product-item3.jpg: blt9bf51f4d4ee2992a successfully!"}
+{"level":"info","message":"Batch No. 2 of assets download is complete."}
+{"level":"info","message":"Downloaded collection-item2.jpg: bltdb12dbcfdfd34797 successfully!"}
+{"level":"info","message":"Downloaded product-item4.jpg: blt8c70e780cb833584 successfully!"}
+{"level":"info","message":"Downloaded collection-item.jpg: bltdae7e6a5dfefe9e6 successfully!"}
+{"level":"info","message":"Downloaded collection-item1.jpg: bltf3b8929232601dff successfully!"}
+{"level":"info","message":"Downloaded collection-item3.jpg: bltd223afc7261a8f47 successfully!"}
+{"level":"info","message":"Batch No. 3 of assets download is complete."}
+{"level":"info","message":"Downloaded brand1.png: blt0f1ea27ea1c56551 successfully!"}
+{"level":"info","message":"Downloaded brand4.png: blt8c47e1d542f22417 successfully!"}
+{"level":"info","message":"Downloaded brand2.png: blt0e342bc79347be93 successfully!"}
+{"level":"info","message":"Downloaded model.jpg: blta2c08400a0ef0aa0 successfully!"}
+{"level":"info","message":"Downloaded brand3.png: blt8ac7708bb55a8f95 successfully!"}
+{"level":"info","message":"Batch No. 4 of assets download is complete."}
+{"level":"info","message":"Downloaded brand5.png: blt858c1658b7b1134a successfully!"}
+{"level":"info","message":"Downloaded search.png: bltc5f5a5b7e9a72721 successfully!"}
+{"level":"info","message":"Downloaded cart.png: bltee5f1267cb066fbf successfully!"}
+{"level":"info","message":"Downloaded heart.png: blt0a6eaf5c512cdc3b successfully!"}
+{"level":"info","message":"Downloaded user.png: blt0303162205e7e802 successfully!"}
+{"level":"info","message":"Batch No. 5 of assets download is complete."}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(4).png: blt483fabff107ccf2c successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(5).png: blte784ceb17274cfb6 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(3).png: blt99c6d5712f2c7f50 successfully!"}
+{"level":"info","message":"Downloaded post-img1.jpg: bltf0704c03d49b1bc2 successfully!"}
+{"level":"info","message":"Downloaded MicrosoftTeams-image_(2).png: blt7f1b4ad3de83e2d6 successfully!"}
+{"level":"info","message":"Batch No. 6 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img3.jpg: bltcbb5105b73287a46 successfully!"}
+{"level":"info","message":"Downloaded post-img9.jpg: bltd4f6458cd8df77f8 successfully!"}
+{"level":"info","message":"Downloaded post-img2.jpg: bltd334868f6d5adfe5 successfully!"}
+{"level":"info","message":"Downloaded post-img6.jpg: bltf7e5943493897db7 successfully!"}
+{"level":"info","message":"Downloaded post-img5.jpg: blt12cb9c015dfcf234 successfully!"}
+{"level":"info","message":"Batch No. 7 of assets download is complete."}
+{"level":"info","message":"Downloaded post-img7.jpg: blt865ba9db431df8d9 successfully!"}
+{"level":"info","message":"Downloaded single-image1.jpg: bltc889b77ab12912e1 successfully!"}
+{"level":"info","message":"Downloaded single-image2.jpg: bltedf36d54a7aca7d3 successfully!"}
+{"level":"info","message":"Downloaded post-img4.jpg: blt3b149bc372184e8d successfully!"}
+{"level":"info","message":"Downloaded post-img8.jpg: blt1492daf6470948ad successfully!"}
+{"level":"info","message":"Batch No. 8 of assets download is complete."}
+{"level":"info","message":"Downloaded technosport.png: bltfbeb1e4531b36250 successfully!"}
+{"level":"info","message":"Downloaded quote.png: blt1f31a862849c0068 successfully!"}
+{"level":"info","message":"Downloaded Crop_Length_Hood.webp: blt526a93ced5227de0 successfully!"}
+{"level":"info","message":"Downloaded hero-image.jpg: blt6a5631d0e8d1dd6f successfully!"}
+{"level":"info","message":"Downloaded Shirt.webp: bltc780f159b54b9fe6 successfully!"}
+{"level":"info","message":"Batch No. 9 of assets download is complete."}
+{"level":"info","message":"Downloaded tops_and_tunic.webp: blte0907a7475bccb6c successfully!"}
+{"level":"info","message":"Downloaded Peach_top.webp: blt2be21bb4bf1dbaea successfully!"}
+{"level":"info","message":"Downloaded oevdh_512.webp: blt6f877817a43c247a successfully!"}
+{"level":"info","message":"Downloaded muzdo_512.webp: blt65b60e66bce37b45 successfully!"}
+{"level":"info","message":"Downloaded Dyed-Fabrics-for-Festivities-770x515.jpg: blt571f368f1da838d6 successfully!"}
+{"level":"info","message":"Batch No. 10 of assets download is complete."}
+{"level":"info","message":"Downloaded Tote_bags.png: blt4d35abedacff8051 successfully!"}
+{"level":"info","message":"Downloaded Cute-Clothes-for-Fall-for-Women1.jpg: bltefcea95948c13e2c successfully!"}
+{"level":"info","message":"Downloaded 2jamdani.jpg: blta70d3df3cae9a54d successfully!"}
+{"level":"info","message":"Downloaded Handloom.jpg: blt1989e68686ad8943 successfully!"}
+{"level":"info","message":"Downloaded embroidery.jpg: blt1070c1abf5d5ef35 successfully!"}
+{"level":"info","message":"Batch No. 11 of assets download is complete."}
+{"level":"info","message":"Downloaded handbag.webp: blt32654f3add324af2 successfully!"}
+{"level":"info","message":"Downloaded sneakers.webp: blt9d691f0f74ffd710 successfully!"}
+{"level":"info","message":"Batch No. 12 of assets download is complete."}
+{"level":"info","message":"Assets download completed successfully.!"}
+{"level":"info","message":"Assets exported successfully.!"}
+{"level":"info","message":"Starting export of locales module"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting export of environments module"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"'commerce' environment was exported successfully"}
+{"level":"info","message":"'corporate' environment was exported successfully"}
+{"level":"info","message":"'development' environment was exported successfully"}
+{"level":"info","message":"All the environments have been exported successfully!"}
+{"level":"info","message":"Starting export of extensions module"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"No extensions found"}
+{"level":"info","message":"Starting export of webhooks module"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting export of global-fields module"}
+{"level":"info","message":"Starting global fields export"}
+{"level":"info","message":"Completed global fields export"}
+{"level":"info","message":"Starting export of content-types module"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting export of custom-roles module"}
+{"level":"info","message":"Starting custom roles export"}
+{"level":"info","message":"'Article Author' role was exported successfully"}
+{"level":"info","message":"'Commerce Content Editor' role was exported successfully"}
+{"level":"info","message":"Starting export of workflows module"}
+{"level":"info","message":"Starting workflows export"}
+{"level":"info","message":"'Workflow POC' workflow was exported successfully"}
+{"level":"info","message":"All the workflows have been exported successfully!"}
+{"level":"info","message":"Starting export of entries module"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'redirect' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'analytics' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'contact_us' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'basic_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'products_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'article_landing_page' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'product_collections' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_footer' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_header' locale 'en-us'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-in'"}
+{"level":"info","message":"Exported entries of type 'commerce_page' locale 'en-us'"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting export of labels module"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"'Commerce Site' label was exported successfully"}
+{"level":"info","message":"'Pages' label was exported successfully"}
+{"level":"info","message":"'Components' label was exported successfully"}
+{"level":"info","message":"All the labels have been exported successfully!"}
+{"level":"info","message":"Starting export of marketplace-apps module"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"Exporting Algolia app and it's config."}
+{"level":"info","message":"Exported Algolia app and it's config."}
+{"level":"info","message":"Exporting Form.io app and it's config."}
+{"level":"info","message":"Exported Form.io app and it's config."}
+{"level":"info","message":"All the marketplace apps have been exported successfully"}
+{"level":"info","message":"The content of branch main has been exported successfully!"}
+{"level":"info","message":"The content of the stack bltdf72b11698c58cf2 has been exported successfully!"}
+{"level":"info","message":"The log has been stored at 'C:\\Projects\\ContentStack\\CSAccelerator\\stack\\logs\\export'"}
